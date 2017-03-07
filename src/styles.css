@@ -1,1 +1,45 @@
-/* You can add global styles to this file, and also import other style files */
+body
+{
+  background: #1C1C1C;
+  margin: 0 auto;
+  width: 90%;
+}
+
+table
+{
+  margin-top: 10px;
+  width: 90%;
+}
+
+table, th
+{
+  text-align: center;
+}
+
+td
+{
+  background: #fafafa;
+}
+
+.jumbotron
+{
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.odd
+{
+  color: #ffffff;
+  background-color: dimgray;
+}
+
+#boton
+{
+  margin: 0 auto;
+  text-align: center;
+}
+
+#section1
+{
+  margin-top: 50px;
+}
